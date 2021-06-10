@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">savedstate</string>
+    <string name="increment">Increment</string>
+</resources>
